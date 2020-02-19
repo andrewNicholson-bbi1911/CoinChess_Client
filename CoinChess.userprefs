@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\usable\ClientConnectionScript.cs">
+    <Files>
+      <File FileName="Assets\scripts\usable\ClientConnectionScript.cs" Line="91" Column="18" />
+      <File FileName="Assets\scripts\OfflineGameManager.cs" Line="22" Column="28" />
+      <File FileName="Assets\scripts\ServerPrototype.cs" Line="72" Column="3" />
+      <File FileName="Assets\scripts\usable\MainMenuManager.cs" Line="153" Column="28" NotebookId="1" />
+      <File FileName="Assets\scripts\HostGame.cs" Line="19" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
